@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap');
+
+body{background-color:steelblue;}
+
+.heading{text-align:center;}
+
+.pealkiri{color:coral;
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 5rem;}
+
+
+.main{border: 3px solid black; 
+    width: 65%; 
+    margin: 1rem auto;}
+
+.main div{height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    border-radius: 50%;
+    margin: 1rem auto;}
+
+    #yks{border-color: coral;}
+
+    #kaks{border-color: darkorchid;}
+
+    #kolm{border-color: forestgreen;}
+
+
+.jalus{text-align:center;
+     font-family: 'Fjalla One', sans-serif;
+     font-size: 1.5rem;}
